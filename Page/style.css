@@ -1,0 +1,73 @@
+body{
+	background: white;
+}
+div.header{
+	background: #181818;
+	height: 85%;
+	width: 100%;
+}
+
+section.header_swim{
+	 position: fixed;
+	 background: white;
+	 overflow: visible !important;
+	 width: 100%;
+	 z-index: 998 !important;
+    left: 0;
+    top: 0;
+    height: 78px;
+}
+section{
+	-webkit-backface-visibility: hidden;
+	display: block;
+}
+
+p.header{
+	color: white;
+	margin-left: auto;
+    margin-right: auto;
+    width: 5%;
+}
+
+h1{
+	color: #E9B370;
+	margin-left: auto;
+    margin-right: auto;
+    width: 5%;
+	    font-size: 3.75rem;
+    line-height: 2.95rem;
+    letter-spacing: 0;
+    font-family: "Rozha One", serif;
+}
+
+div.header1{
+	margin: 0 auto 1.7625rem auto;
+    max-width: 41rem;
+	    right: -40%;
+    top: -300px;
+}
+
+img.header{
+	width: 4%;
+	position: fixed;
+	margin-left: 3%;
+	margin-top: 1%;
+}
+
+html {
+
+height: 100%;
+
+}
+
+body {
+
+height: 100%;
+
+}
+
+html, body
+{
+margin: 0;
+padding: 0;
+}
